@@ -3,7 +3,7 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+  33 konceptů, které by každý programátor JavaScript měl umět 
   <br><br>
 </h1>
     
@@ -11,17 +11,17 @@
 	<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=JP4Z4XHHPXX96&item_name=Support+for+more+projects.&currency_code=BRL&amount=5&source=url" target="_blank"><img src="https://i.imgur.com/qVTU1Uc.png" /></a>
 </h1 >
 
-## Introduction
+## Úvod
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by [Stephen Curtis](https://twitter.com/stephenthecurt) and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Tento repozitář byl vytvořen s účelem pomoci vývojářům ve zlepšení svých znalostí v JavaScriptu. Toto je návod pro budoucí studium, nikoliv seznam požadavků. Je založený na článku napsaný [Stephenem Curtisem](https://twitter.com/stephenthecurt), který si můžete přečíst [zde](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
 **🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
-## Community
+## Komunita
 
-Feel free to submit a PR adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
+Pomožte ve vylepšení repozitáře přidáním PR s odkazem na vaše vlastní shrnutí nebo revize. Pokud chcete, můžete preložit tento repozitář do jiného jazyka.
 
-All the translations for this repo will be listed below:
+Všechny jiné překlady:
 
 - [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
 - [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
